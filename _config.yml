@@ -6,7 +6,7 @@
 name: Shixun
 
 # Short bio or description (displayed in the header)
-description: Blog for daily learning
+description: Blog For Daily Learning
 
 
 #
@@ -17,7 +17,7 @@ description: Blog for daily learning
 footer-links:
   dribbble:
   email: liushixun1988@gmail.com
-  facebook: id=100008735688171
+  facebook: profile.php?id=100008735688171
   flickr:
   github: lsx1988
   instagram:
@@ -32,7 +32,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: http-bigbreadtech-com.
+disqus: http-bigbreadtech-com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
